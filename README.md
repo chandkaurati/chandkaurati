@@ -1,50 +1,46 @@
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate Full Stack MERN Developer</h3>
 
-👋 Hi, I'm chand kaurati
-Fullstack Developer | JavaScript | React | Node.js | 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
-Welcome to my GitHub profile! I am a passionate fullstack developer with experience in building responsive, scalable, and performant web applications. I love working across both frontend and backend, solving problems, and learning new technologies along the way.
+---
 
+🌱 **I’m currently learning:** Web3, TypeScript, Flutter  
+👨‍💻 **All of my projects are available at:** [your-portfolio-link](#)  
+💬 **Ask me about:** JavaScript, React, Node.js, Express.js, MongoDB  
+📫 **How to reach me:** [your-email@example.com](mailto:your-email@example.com)  
+⚡ **Fun fact:** I love building projects that solve real-world problems 🚀  
 
-🚀 About Me
-🔭 I’m currently working on Crpyto landing page and learning Next Js.
-🌱 I’m currently learning MySQl, Prisma, nextjs, Mongo Aggrigation.
-👯 I’m looking to collaborate on open-source projects that align with my skillset.
-💬 Ask me about JavaScript, React, Node.js, APIs, or anything tech-related!
-📫 How to reach me: kauratichand786@gmail.com | chandkaurati@outlook.
+---
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker" alt="tech-stack" />
+</p>
 
-💼 My Skill Set
-Frontend:
+---
 
-React, Redux, TypeScript
-HTML5, CSS3, Tailwind CSS
-Responsive Design, Animations
+### 🚀 My Projects
+- 📝 [Idea Tracker App](#) - Track and manage your ideas efficiently  
+- 🔗 [URL Shortener with QR Codes](#) - Shorten links with shareable QR codes  
+- 💰 [Crypto Tracker](#) - Track and watch your favorite cryptocurrencies  
 
-Backend:
-Node.js, Express.js
-RESTful APIs, Prisma
-Databases: MongoDB, MySQL
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="github-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="top-langs" />
+</p>
 
-Other Technologies:
-Version Control (Git & GitHub)
-Docker, CI/CD
-🛠️ Tools & Technologies
+---
 
-Languages:JavaScript, TypeScript, SQL
-
-Frameworks & Libraries: React, Express.js, Next.js, Tailwind CSS
-
-Databases: MongoDB, MySQL,
-
-DevOps: Docker, GitHub Actions
-
-Cloud Platforms: Firebase
-
-📫 Let's Connect!
-LinkedIn: https://www.linkedin.com/in/chand-kaurati-669082256/
-Email: chandkaurati@outlook.com
-
-⚡ Fun Fact:
-I’m always curious about emerging technologies and how they can be used to solve real-world problems!
-
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://your-website.com" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" /></a>
+</p>
