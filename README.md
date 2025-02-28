@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋, I'm Chand kaurati </h1>
 <h3 align="center">🚀 Full Stack MERN Developer | Passionate about crafting seamless web experiences</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 About Me  
-- 👨‍💻 Currently leveling up in **Web3**, **TypeScript**, and **Flutter**  
+- 👨‍💻 Currently leveling up in **Web3**, **TypeScript**, and **Back-end & Devoops**  
 - 📚 I believe in **continuous learning** and **building real-world solutions**  
 - 💬 Happy to discuss **JavaScript**, **React**, **Node.js**, and the **MERN stack**  
 - ✨ Fun fact: I love adding smooth animations and crafting beautiful UIs with **Tailwind CSS**!  
@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandkaurati&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -32,7 +32,6 @@
 
 ### 🌐 Let's Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/chand-kaurati-669082256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+ 
