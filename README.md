@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Chand kaurati</h1>
+<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
 <h3 align="center">🚀 Full Stack MERN Developer | Passionate about crafting seamless web experiences</h3>
 
 <p align="center">
