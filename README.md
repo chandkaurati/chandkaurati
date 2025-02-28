@@ -33,5 +33,5 @@
 ### 🌐 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/chand-kaurati-669082256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://x.com/CKaurati58199?t=EOWLgANbkGCoJjNlRVspHg&s=09" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
  
